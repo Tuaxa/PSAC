@@ -1,0 +1,8 @@
+C:\Users\Tuaxa\source\repos\ProxyChecker\ProxyChecker\bin\Release\ProxyChecker.exe.config
+C:\Users\Tuaxa\source\repos\ProxyChecker\ProxyChecker\bin\Release\ProxyChecker.exe
+C:\Users\Tuaxa\source\repos\ProxyChecker\ProxyChecker\bin\Release\ProxyChecker.pdb
+C:\Users\Tuaxa\source\repos\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.csproj.AssemblyReference.cache
+C:\Users\Tuaxa\source\repos\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuaxa\source\repos\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.csproj.CoreCompileInputs.cache
+C:\Users\Tuaxa\source\repos\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.exe
+C:\Users\Tuaxa\source\repos\ProxyChecker\ProxyChecker\obj\Release\ProxyChecker.pdb
